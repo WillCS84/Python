@@ -1,4 +1,3 @@
-#!Python3
 
 # print('Integração Alexandria!')
 # import Pacote.sub.Arquive
