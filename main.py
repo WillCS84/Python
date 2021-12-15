@@ -37,5 +37,6 @@
 #print(s)
 #resultado = args.resultado_final(nome='Pedro', nota=6.5)
 #print(resultado)
+#from Funcao import Funcional
 
-from Funcao import Funcional
+from Funcao import Map_reduce
