@@ -36,6 +36,7 @@
 #print(s)
 #resultado = args.resultado_final(nome='Pedro', nota=6.5)
 #print(resultado)
+<<<<<<< HEAD
 
 #from Funcao import Funcional
 #from Funcao import Map_reduce
@@ -45,3 +46,9 @@
 #import oo.Produto
 #import oo.Heranca
 import oo.Membros
+=======
+#from Funcao import Funcional
+#from Funcao import Map_reduce
+
+import Funcao.lambdas
+>>>>>>> 2ee06246c9128305ba7b6965ff39dbd7a2a3c09f
